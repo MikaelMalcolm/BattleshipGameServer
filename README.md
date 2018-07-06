@@ -1,6 +1,6 @@
 # BattleshipGameServer
 
-Connection Phase
+#Connection Phase
 Client connects to server
 Server waits for initial action from client:
 Initial Action Phase
